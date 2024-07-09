@@ -131,6 +131,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="car.h" />
     <ClInclude Include="circle.h" />
     <ClInclude Include="draw.h" />
     <ClInclude Include="rectangle.h" />
