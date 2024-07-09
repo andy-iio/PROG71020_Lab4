@@ -33,7 +33,7 @@ public:
 	}
 };
 
-// Global drive function using recursion  
+// Global drive function
 void drive(Cars& car) {
 	car.drive();
 }

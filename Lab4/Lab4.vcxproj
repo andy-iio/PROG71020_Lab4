@@ -128,14 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="draw.cpp" />
+    <ClCompile Include="getTotalArea.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="test_getTotalArea.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="car.h" />
     <ClInclude Include="circle.h" />
     <ClInclude Include="draw.h" />
+    <ClInclude Include="getTotalArea.h" />
     <ClInclude Include="rectangle.h" />
     <ClInclude Include="shape.h" />
+    <ClInclude Include="test_getTotalArea.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="bmw.txt" />

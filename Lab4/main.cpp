@@ -6,7 +6,7 @@
 #include "rectangle.h"
 #include "circle.h"
 #include "car.h"
-
+#include "test_getTotalArea.h"
 
 int main()
 {
@@ -27,5 +27,8 @@ int main()
 	Mazda mazda;
 	mazda.draw();
 	mazda.drive();
+
+	//testing for the getTotalArea() function
+	test_getTotalArea();
 
 }
